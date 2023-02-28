@@ -1,10 +1,12 @@
 <img width="1347" alt="CanvaBanner" src="https://user-images.githubusercontent.com/98968683/221973333-e119f2cd-5d92-45a8-ba97-60e4904ce0fc.png">
 
+---
 
-<img align="left" width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkaholic6&layout=compact" />
-<img align="left" width=48% src="https://github-readme-stats.vercel.app/api?username=elkaholic6&show_icons=true&theme=radical" />
+<p align='center'>
+<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkaholic6&layout=compact" />
+<img width=48% src="https://github-readme-stats.vercel.app/api?username=elkaholic6&show_icons=true&theme=radical" />
+</p>
 </br>
-
 
 <p align='center'>
 <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -18,12 +20,11 @@
 </br>
 
 
-
+---
 ### About me..
 
 Self-taught javascript and solidity developer.
 </br>
-
 
 ### Contact
 📫 wyattchamberlin6@gmail.com
