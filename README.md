@@ -16,16 +16,14 @@
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 </br>
-</br>
-</br>
-</br>
+
 
 
 ### About me..
 
 Self-taught javascript and solidity developer.
 </br>
-</br>
+
 
 ### Contact
 📫 wyattchamberlin6@gmail.com
