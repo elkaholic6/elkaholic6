@@ -3,7 +3,7 @@
 
 <img align="left" width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkaholic6&layout=compact" />
 <img align="left" width=48% src="https://github-readme-stats.vercel.app/api?username=elkaholic6&show_icons=true&theme=radical" />
-
+</br>
 
 ### Skills
 
