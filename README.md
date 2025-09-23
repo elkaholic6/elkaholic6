@@ -6,7 +6,7 @@
 
 <p align='center'>
 <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkaholic6&layout=compact" />
-<img width=48% src="https://github-readme-stats.vercel.app/api?username=elkaholic6&show_icons=true&theme=radical" />
+<!-- <img width=48% src="https://github-readme-stats.vercel.app/api?username=elkaholic6&show_icons=true&theme=radical" /> -->
 </p>
 </br>
 
