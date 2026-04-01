@@ -25,7 +25,7 @@
 ---
 ### About me..
 
-Self-taught javascript and solidity developer.
+Front-end developer specializing in Shopify.
 </br>
 
 ### Contact
