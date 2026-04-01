@@ -1,5 +1,5 @@
 <!-- <img width="1347" alt="CanvaBanner" src="https://user-images.githubusercontent.com/98968683/221973333-e119f2cd-5d92-45a8-ba97-60e4904ce0fc.png"> -->
-<img width="1121" alt="Screen Shot 2023-06-01 at 3 06 24 PM" src="https://github.com/elkaholic6/elkaholic6/assets/98968683/c995ba06-9023-4359-9504-c39ed88529a8">
+<img width="1584" height="396" alt="Wyatt Chamberlin" src="https://github.com/user-attachments/assets/3c88681a-464b-4293-bafa-3204b6ccaa22" />
 
 
 ---
