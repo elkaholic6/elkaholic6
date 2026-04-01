@@ -2,9 +2,9 @@
 <img width="1584" height="396" alt="Wyatt Chamberlin" src="https://github.com/user-attachments/assets/3c88681a-464b-4293-bafa-3204b6ccaa22" />
 
 ---
-<p align='center'>
+<!-- <p align='center'>
 <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkaholic6&layout=compact" />
-</p>
+</p> -->
 </br>
 <p align='center'>
 <img alt="Shopify" src="https://img.shields.io/badge/Shopify-%2396BF48.svg?style=for-the-badge&logo=shopify&logoColor=white" />
